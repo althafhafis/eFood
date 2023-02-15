@@ -1,0 +1,11 @@
+{
+    "name": "Efood | Food on click away",
+    "short_name": "Efood",
+    "description": "Efood is website for a Restaurant to order a food",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#F46801",
+    "background_color": "#F46801"
+  
+}

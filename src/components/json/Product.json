@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "title":"Nasi Goreng Pak Parjo",
+        "image": "oneq.jpg",
+        "Discount_Price": "8,10",
+        "Actual_Price":"$10,10"
+    },
+    {
+        "id":"2",
+        "title":"Nasi Goreng Pak Parjo",
+        "image": "two.jpg",
+        "Discount_Price": "10,24",
+        "Actual_Price":"$5,60"
+    },
+    {
+        "id":"3",
+        "title":"Nasi Goreng Pak Parjo",
+        "image": "three.jpg",
+        "Discount_Price": "12,10",
+        "Actual_Price":"$9,10"
+    },
+    {
+        "id":"4",
+        "title":"Nasi Goreng Pak Parjo",
+        "image": "four.jpg",
+        "Discount_Price": "10,24",
+        "Actual_Price":"$5,60"
+    },
+    {
+        "id":"5",
+        "title":"Nasi Goreng Pak Parjo",
+        "image": "five.jpg",
+        "Discount_Price": "10,10",
+        "Actual_Price":"$8,10"
+    },
+    {
+        "id":"6",
+        "title":"Nasi Goreng Pak Parjo",
+        "image": "six.jpg",
+        "Discount_Price": "20,05",
+        "Actual_Price":"$18,00"
+    }
+]
